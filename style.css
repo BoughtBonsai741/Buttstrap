@@ -893,7 +893,7 @@ body {
     }
 }
 
-@media (max-width:360px) {
+@media (max-width:390px) {
     .header_main-time-container{
         display: none;
     }

@@ -1085,7 +1085,10 @@ body {
         text-align: center;
     }
 
-    
+    .header-fotter-button{
+        width: 100%;
+        padding: 0;
+    }
 
     .main-section-5-top-h2{
         font-size: 35px;
